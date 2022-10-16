@@ -1,0 +1,29 @@
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\bin\Debug\Testing.exe.config
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\bin\Debug\Testing.exe
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\bin\Debug\Testing.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\bin\Debug\Tangled.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\bin\Debug\Tangled.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\obj\Debug\Testing.exe
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Testing\obj\Debug\Testing.pdb
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\bin\Debug\Testing.exe.config
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\obj\Debug\Testing.exe
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\obj\Debug\Testing.pdb
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\bin\Debug\Testing.exe
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\bin\Debug\Testing.pdb
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\bin\Debug\Tangled.dll
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\bin\Debug\Tangled.pdb
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+E:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\bin\Debug\Testing.exe.config
+E:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.exe
+E:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\bin\Debug\Testing.exe.config
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\bin\Debug\Testing.exe
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\bin\Debug\Testing.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\bin\Debug\Tangled.dll
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\bin\Debug\Tangled.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.csproj.CopyComplete
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.exe
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Testing\obj\Debug\Testing.pdb

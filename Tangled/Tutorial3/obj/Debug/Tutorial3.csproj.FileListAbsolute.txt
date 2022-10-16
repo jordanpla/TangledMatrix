@@ -1,0 +1,11 @@
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\bin\Debug\Tutorial3.exe.config
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\bin\Debug\Tutorial3.exe
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\bin\Debug\Tutorial3.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\obj\Debug\Tutorial3.exe
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\obj\Debug\Tutorial3.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\obj\Debug\Tutorial3.csprojResolveAssemblyReference.cache
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\bin\Debug\Tangled.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tutorial3\bin\Debug\Tangled.pdb
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tutorial3\bin\Debug\Tutorial3.exe.config
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tutorial3\obj\Debug\Tutorial3.exe
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tutorial3\obj\Debug\Tutorial3.pdb

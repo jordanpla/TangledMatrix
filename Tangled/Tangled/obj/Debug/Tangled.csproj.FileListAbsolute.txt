@@ -1,0 +1,16 @@
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tangled\bin\Debug\Tangled.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tangled\bin\Debug\Tangled.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tangled\obj\Debug\Tangled.dll
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tangled\obj\Debug\Tangled.pdb
+C:\Users\lleonart\Documents\!Courses\!Programming\Projects\Tangled\Tangled\obj\Debug\Tangled.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tangled\bin\Debug\Tangled.dll
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tangled\bin\Debug\Tangled.pdb
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tangled\obj\Debug\Tangled.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tangled\obj\Debug\Tangled.dll
+C:\Users\Jordan\Desktop\Proyecto nuevo\Tangled\Tangled\obj\Debug\Tangled.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Tangled\bin\Debug\Tangled.dll
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Tangled\bin\Debug\Tangled.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Tangled\obj\Debug\Tangled.csprojAssemblyReference.cache
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Tangled\obj\Debug\Tangled.csproj.CoreCompileInputs.cache
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Tangled\obj\Debug\Tangled.dll
+D:\Escuela\Ciencia de la Computación\1er Año\1er Semestre\Álgebra I\Proyecto Matriz\Mi Proyecto\Tangled\Tangled\obj\Debug\Tangled.pdb
